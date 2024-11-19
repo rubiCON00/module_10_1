@@ -1,4 +1,3 @@
-import time
 from time import sleep
 from threading import Thread
 def write_words(word_count, file_name):
